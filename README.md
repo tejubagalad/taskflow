@@ -6,9 +6,9 @@
   <li>install node from the offcial website</li>
     <li>  Run npm i inside the folder</li>
   <h4>Using Docker</h4>
+  ```console
+  docker pull iswnischay/todo-app
   ```
-echo ~
-```
   <li>docker run -p 3000:3000 -it 8sem/todo-app</li>
   <li>use sudo at every line if your using linux</li>
 </ul>
