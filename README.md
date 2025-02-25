@@ -1,7 +1,7 @@
 # Simple TO-DO Webapplication
 - It is a simple task management webapplication / todo list made with react.js and node.js
 ## Instalation/RUN
-### Using node
+  ### Using node
   - install node from the offcial website
   - inside the folder
     
@@ -11,7 +11,7 @@
     ```bash
     npm start
     ```
-  - Using Docker
+    ### Using Docker
     
     ```bash
     docker pull iswnischay/todo-app
