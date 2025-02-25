@@ -7,16 +7,12 @@
     
     ```bash
     npm i 
-    ```
-    ```bash
     npm start
     ```
     ### Using Docker
     
     ```bash
     docker pull iswnischay/todo-app
-    ```
-    ```bash
     docker run -p 3000:3000 -it 8sem/todo-app
     ```
   -  use sudo at every line if your using linux
